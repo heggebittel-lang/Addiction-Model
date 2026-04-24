@@ -4,7 +4,7 @@
 **Author:** [Yushang Cheng]
 **ORCID:** [https://orcid.org/0009-0001-3218-6423](https://orcid.org/0009-0001-3218-6423)
 **Status:** Working Paper / Conceptual Framework
-**License:** MIT
+**License:** Creative Commons Attribution 4.0 International Public License
 
 ## Overview
 This repository contains the original conceptual framework and preliminary mathematical derivation for an extended **Rational Addiction Model**. 

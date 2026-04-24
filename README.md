@@ -1,4 +1,5 @@
 # Rational Addiction Model with an Endogenous Exit Mechanism
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19739976.svg)](https://doi.org/10.5281/zenodo.19739976)
 
 **Author:** [Yushang Cheng]
 **ORCID:** [https://orcid.org/0009-0001-3218-6423](https://orcid.org/0009-0001-3218-6423)

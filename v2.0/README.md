@@ -11,4 +11,6 @@ This repository contains the manuscript *A Structural Model of Rational Addictio
 - DOI: [10.5281/zenodo.19743247](https://doi.org/10.5281/zenodo.19743247)
 
 ## License
-This work is licensed under [your chosen license].
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+Copyright (c) 2026 Yushang Cheng.

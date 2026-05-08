@@ -15,7 +15,6 @@ This repository hosts the preprint of *A Structural Model of Rational Addiction*
 ## Current Version
 
 ### v2.0.0 — Complete Manuscript
-v2.0.0 — Complete Manuscript
 
 This release provides the full, mature manuscript of "A Structural Model of Rational Addiction,"
 replacing the earlier working paper (v1.0) which contained only a brief sketch of the model.

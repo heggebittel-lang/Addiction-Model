@@ -29,7 +29,6 @@ The **Exit Mechanism ($e_t$)** is defined as an endogenous **hedging commodity**
 This project has evolved through two major versions, which you can find in the respective directories.
 
 ### [v2.0](https://github.com/heggebittel-lang/Rational-Relapse-Theory/tree/main/v2.0) — Complete Manuscript
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19743247-blue)](https://doi.org/10.5281/zenodo.19743247)
 
 This is the **current and complete version** of the paper. It provides the full derivation, multiple equilibria analysis, and policy implications. Key expansions include:
 - **Full Theoretical Framework**: Complete utility specification, dynamic programming derivation, and steady-state analysis.

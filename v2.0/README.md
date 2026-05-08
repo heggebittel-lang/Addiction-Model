@@ -1,5 +1,5 @@
 # A Structural Model of Rational Addiction
-
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20086392-blue)](https://doi.org/10.5281/zenodo.20086392)
 **Author:** Yushang Cheng  
 **ORCID:** [0009-0001-3218-6423](https://orcid.org/0009-0001-3218-6423)  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  

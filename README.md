@@ -46,6 +46,7 @@ This is the original working paper that established the core conceptual framewor
 If you use this work, please cite as:
 
 > Cheng, Y. (2026). *A Structural Model of Rational Addiction* (v2.0). Zenodo.https://doi.org/10.5281/zenodo.20086392
+
 For the earlier version:
 
 > Cheng, Y. (2026). *A Structural Model of Rational Addiction* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.19743247

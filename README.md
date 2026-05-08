@@ -29,7 +29,7 @@ The **Exit Mechanism ($e_t$)** is defined as an endogenous **hedging commodity**
 This project has evolved through two major versions, which you can find in the respective directories.
 
 ### [v2.0](https://github.com/heggebittel-lang/Rational-Relapse-Theory/tree/main/v2.0) — Complete Manuscript
-https://doi.org/10.5281/zenodo.20086392
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20086392-blue)](https://doi.org/10.5281/zenodo.20086392)
 This is the **current and complete version** of the paper. It provides the full derivation, multiple equilibria analysis, and policy implications. Key expansions include:
 - **Full Theoretical Framework**: Complete utility specification, dynamic programming derivation, and steady-state analysis.
 - **Core Contribution: Rational Relapse (Proposition 2)**: A formal three-regime theorem (rational abstinence, rational relapse, uncontrolled addiction) with complete mathematical proofs.
@@ -45,8 +45,7 @@ This is the original working paper that established the core conceptual framewor
 
 If you use this work, please cite as:
 
-> Cheng, Y. (2026). *A Structural Model of Rational Addiction* (v2.0). Zenodo.
-
+> Cheng, Y. (2026). *A Structural Model of Rational Addiction* (v2.0). Zenodo.https://doi.org/10.5281/zenodo.20086392
 For the earlier version:
 
 > Cheng, Y. (2026). *A Structural Model of Rational Addiction* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.19743247

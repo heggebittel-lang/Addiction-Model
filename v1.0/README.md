@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository contains the **initial preprint (v1.0)** of the working paper. It establishes the original conceptual framework and preliminary mathematical derivation for an extended **Rational Addiction Model**.
 

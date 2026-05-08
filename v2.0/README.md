@@ -16,8 +16,7 @@ This repository hosts the preprint of *A Structural Model of Rational Addiction*
 
 ### v2.0.0 — Complete Manuscript
 - Full structural model with all propositions, proofs, and numerical examples.
-- Added author details and ORCID.
-- **DOI:** [will be assigned upon release]
+- **DOI:** [https://doi.org/10.5281/zenodo.20085694]
 
 ---
 

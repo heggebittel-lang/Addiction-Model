@@ -15,10 +15,40 @@ This repository hosts the preprint of *A Structural Model of Rational Addiction*
 ## Current Version
 
 ### v2.0.0 — Complete Manuscript
-- Full structural model with all propositions, proofs, and numerical examples.
-- **DOI:** [https://doi.org/10.5281/zenodo.20085694]
+v2.0.0 — Complete Manuscript
 
----
+This release provides the full, mature manuscript of "A Structural Model of Rational Addiction,"
+replacing the earlier working paper (v1.0) which contained only a brief sketch of the model.
+
+Major expansions relative to the v1.0 working paper:
+
+**Complete Theoretical Framework**
+- Full instantaneous utility specification with all three components (direct utility, exit mechanism,
+  adjustment frictions).
+- Detailed justification of the exponential exit mechanism (neurobiological, behavioral economic,
+  mathematical minimality, boundary conditions).
+- Full dynamic programming derivation, optimality conditions, and envelope condition.
+- Steady-state analysis with multiple equilibria and implicit function theorem comparative statics.
+- Formal contrast between rational and myopic addiction.
+
+**Core Contribution: Rational Relapse (Proposition 2)**
+- Full three‑regime theorem (rational abstinence, rational relapse, uncontrolled addiction).
+- Complete mathematical proof using the characteristic equation and Vieta's formulas.
+- Numerical examples for all three regimes with simulated bounded oscillation paths.
+- Conjecture on global bounded oscillations.
+
+**Empirical and Policy Content**
+- Linearized estimable Euler equation with testable predictions (Proposition 3).
+- Identification strategy, questionnaire design, and forward‑looking behavior tests.
+- Expanded policy implications: permanent vs. temporary taxes, friction‑targeting,
+  exit‑mechanism‑oriented interventions.
+
+**Meta‑Information**
+- Full reference list (11 entries).
+- Licensed under CC BY 4.0.
+
+This release contains the compiled PDF only. LaTeX source available upon request.
+
 
 ## Previous Versions
 
@@ -33,7 +63,7 @@ This repository hosts the preprint of *A Structural Model of Rational Addiction*
 If you use this work, please cite as:
 
 > Cheng, Y. (2026). *A Structural Model of Rational Addiction* (v2.0). Zenodo.  
-> https://doi.org/10.5281/zenodo.xxxxxxx
+> https://doi.org/10.5281/zenodo.20085694
 
 For the earlier version:
 

@@ -8,13 +8,13 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository presents **A Structural Model of Rational Addiction**, an extension of the classic Becker–Murphy (1988) framework. The key innovation is the introduction of an endogenous **Exit Mechanism ($e_t$)**, which provides a microfoundation for voluntary cessation and rational relapse within a standard utility-maximization model.
 
 Unlike traditional models where addiction is often an irreversible, divergent path, this framework proposes that forward-looking agents can actively invest in a "hedging commodity" to manage their addiction stock.
 
-## 🔑 Key Innovation: The Exit Mechanism
+## Key Innovation: The Exit Mechanism
 
 The **Exit Mechanism ($e_t$)** is defined as an endogenous **hedging commodity**. This novel addition provides three core theoretical advantages:
 
@@ -24,7 +24,7 @@ The **Exit Mechanism ($e_t$)** is defined as an endogenous **hedging commodity**
 | **Soft Constraint** | The mechanism acts as an internal stabilizer, preventing the "utility explosion" often found in divergent addictive paths. |
 | **Intertemporal Stability** | It ensures the existence of a stable steady-state equilibrium through active, forward-looking risk management. |
 
-## 📚 Repository Structure & Versions
+## Repository Structure & Versions
 
 This project has evolved through two major versions, which you can find in the respective directories.
 
@@ -42,7 +42,7 @@ This is the **current and complete version** of the paper. It provides the full 
 
 This is the original working paper that established the core conceptual framework and preliminary mathematical derivation for the extended **Rational Addiction Model**.
 
-## 📜 Citation
+## Citation
 
 If you use this work, please cite as:
 
@@ -52,7 +52,7 @@ For the earlier version:
 
 > Cheng, Y. (2026). *A Structural Model of Rational Addiction* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.19743247
 
-## 📄 License
+##  License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 Copyright (c) 2026 Yushang Cheng.

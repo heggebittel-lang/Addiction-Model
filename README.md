@@ -20,5 +20,4 @@ Unlike traditional models where addiction is often an irreversible path, this fr
 ## Priority & Cite
 The intellectual priority of the "Exit Mechanism as a Hedging Commodity" concept belongs to the author. For inquiries or academic discussion, please refer to the timestamped DOI provided by Zenodo.
 
----
-*Generated with reference to microeconomic theory (Nicholson et al.).*
+

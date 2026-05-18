@@ -35,17 +35,11 @@ This is the **current and complete version** of the paper. It provides the full 
 - **Core Contribution: Rational Relapse (Proposition 2)**: A formal three-regime theorem (rational abstinence, rational relapse, uncontrolled addiction) with complete mathematical proofs.
 - **Empirical & Policy Content**: An estimable Euler equation (Proposition 3) and testable predictions, plus policy implications for taxes and interventions.
 - **Meta-Information**: A full reference list, licensing details, and the compiled PDF.
-## v2.0.1 — Formatting Fixes
+## Version Updates
 
-- Corrected LaTeX formatting issues
-- Fixed equation alignment and notation inconsistencies
-- Improved document readability
+- v2.0.2: Updated envelope theorem parameter and propagated dependent results
+- v2.0.1: Fixed formatting errors across documents
 
-## v2.0.2 — Envelope Theorem Revision
-
-- Modified key parameter in envelope theorem specification
-- Propagated changes through all dependent derivations
-- Updated consistency of analytical results
 
 ### [v1.0](https://github.com/heggebittel-lang/Rational-Relapse-Theory/tree/main/v1.0) — Initial Preprint
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19743247-blue)](https://doi.org/10.5281/zenodo.19743247)

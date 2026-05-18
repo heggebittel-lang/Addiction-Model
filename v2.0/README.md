@@ -46,6 +46,11 @@ Major expansions relative to the v1.0 working paper:
 - Full reference list (11 entries).
 - Licensed under CC BY 4.0.
 
+## Version Updates
+
+- v2.0.2: Updated envelope theorem parameter and propagated dependent results
+- v2.0.1: Fixed formatting errors across documents
+
 This release contains the compiled PDF only. LaTeX source available upon request.
 
 

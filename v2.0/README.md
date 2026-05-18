@@ -47,12 +47,17 @@ Major expansions relative to the v1.0 working paper:
 - Licensed under CC BY 4.0.
 
 ## Version Updates
+## v2.0.1 — Formatting Fixes
 
-- v2.0.2: Updated envelope theorem parameter and propagated dependent results
-- v2.0.1: Fixed formatting errors across documents
+- Corrected LaTeX formatting issues
+- Fixed equation alignment and notation inconsistencies
+- Improved document readability
 
-This release contains the compiled PDF only. LaTeX source available upon request.
+## v2.0.2 — Envelope Theorem Revision
 
+- Modified key parameter in envelope theorem specification
+- Propagated changes through all dependent derivations
+- Updated consistency of analytical results
 
 ## Previous Versions
 
